@@ -1,0 +1,7 @@
+*.npy
+dicom/
+*.h5
+training_runs/
+logs/
+variables/
+*.ipynb_checkpoints
